@@ -1,0 +1,25 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# IDE / solution files
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS
+.DS_Store
