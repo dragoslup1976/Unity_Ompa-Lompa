@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adc4c20f7de43486f9d92fbd90ff2ac7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deviceName: 
+  deviceName: Wireless Microphone RX
   requestedSampleRate: 44100
   bufferSeconds: 1
   inputGain: 1
